@@ -1,4 +1,4 @@
-### For this project I chose [target.com](www.target.com) . I tried to stay as close to the actual site's vocabulary and options, but there are times when I invented what would happen and wordage. <br>
+### For this project I chose [target.com](https://www.target.com/) . I tried to stay as close to the actual site's vocabulary and options, but there are times when I invented what would happen and wordage. <br>
 ### All test cases are found in TestPlanTarget.md file.
 ---
 ---
