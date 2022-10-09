@@ -1,5 +1,4 @@
-I am using Target.com 
-Test Model
+
 
 ## Test Case ID: PickUp1 <br>
 Integration Test<br>
