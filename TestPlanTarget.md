@@ -30,7 +30,7 @@ Test Steps:
 2. choose **Pickup & Delivery**
 3. Drop down menu select **Shop Order Pickup** <br>  
    
-Expected Result: Pop-up should read “For better results, please turn on location services on your device and reload page. Or please select Store Finder in the menu.” 
+Expected Result: Pop-up should read “For better results, please turn on location services on your device and reload page. Or please select **Store Finder** in the menu.” 
 
 <br>
 
@@ -56,7 +56,7 @@ User Interface Test <br>
 
 >Description: Check in-store pickup location finder, when logged into an account<br>
 
-Preconditions: Browser capable of supporting the site. Location services turned on device. Logged into account <br>
+Preconditions: Browser capable of supporting the site. Device has location services turned on.  Logged into account <br>
 
 Test Steps:
 1. choose **Pickup & Delivery** 
@@ -73,7 +73,7 @@ Boundary Value Analysis <br>
 
 >Description: When logged into account and choosing a pickup location that is more than 25 miles away from home store.  <br>
 
-Preconditions: Browser capable of supporting the site. Location services turned on device. Logged into account. Have an item in your shopping cart.<br>
+Preconditions: Browser capable of supporting the site. Device has location services turned on.  Logged into account. Have an item in your shopping cart.<br>
 
 Test Steps: 
 1. Click on shopping cart icon
@@ -91,7 +91,7 @@ Boundary Value Analysis <br>
 
 >Description: When logged into account, and choosing a pickup location that is 25 miles away from home store.  <br>
 
-Preconditions: Browser capable of supporting the site. Location services turned on device. Logged into account. Have an item in your shopping cart.<br>
+Preconditions: Browser capable of supporting the site. Device has location services turned on.  Logged into account. Have an item in your shopping cart.<br>
 
 Test Steps: 
 1. Click on shopping cart icon
@@ -108,7 +108,7 @@ Boundary Value Analysis <br>
 
 >Description: When logged into account, and choosing a pickup location that is less than 25 miles away from home store.  <br>
 
-Preconditions: Browser capable of supporting the site. Location services turned on device. Logged into account. Have an item in your shopping cart. <br>
+Preconditions: Browser capable of supporting the site.  Device has location services turned on.  Logged into account. Have an item in your shopping cart. <br>
 
 Test Steps: 
 1. Click on shopping cart icon
@@ -125,7 +125,7 @@ Integration Test  <br>
 
 >Description: What happens when an item is out-of-stock at home store. <br>
 
-Preconditions: Browser capable of supporting the site. Location services turned on device. Logged into account. Have an item in your shopping cart that is not available at home store. <br>
+Preconditions: Browser capable of supporting the site. Device has location services turned on. Logged into account. Have an item in your shopping cart that is not available at home store. <br>
 
 Test Steps: 
 1. Click on shopping cart icon
@@ -140,7 +140,7 @@ Integration Test <br>
 
 >Description: Check other stores for item in shopping cart when not logged into an account. <br>
 
-Preconditions: Browser capable of supporting the site. Location services turned on device. Have an item in your shopping cart that is unavailable at the current store you have selected. <br>
+Preconditions: Browser capable of supporting the site. Device has location services turned on.  Have an item in your shopping cart that is unavailable at the current store you have selected. <br>
 
 Test Steps: 
 1. Click on shopping cart icon
