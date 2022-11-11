@@ -92,7 +92,7 @@ Test Steps:
 Expected Result: A warning should pop up that reads “Are you sure you want to choose (*store name*)?” 
 
 
-Actual Result: There was no warning. I was able to choose a store 40 miles away without any pop up displaying.
+Actual Result: There was no warning. I was able to choose a store 40 miles away without any pop up displaying. Please see PickUp5ERROR.png for image.
 
 <br>
 
@@ -170,7 +170,7 @@ Test Steps:
 Expected Result: Pop-up should contain a list of stores that have the item in stock within a 25 mile radius of the user.
 
 
-Actual Result: The pop-up displayed but instead of showing stores that had the item in stock, it showed a list of the nearest stores with the item out of stock. 
+Actual Result: The pop-up displayed but instead of showing stores that had the item in stock, it showed a list of the nearest stores with the item out of stock. Please see PickUp9ERROR.png for image.
 
 <br>
 
@@ -190,6 +190,19 @@ Expected Result: Pop-up that reads “We’re sorry this item is only available 
 
 
 Actual Result: Pop-up displayed correctly.
+
+
+<br>
+ ---------------------------------------
+
+## Bug Report
+Expected Results were not achieved in PickUp5 and PickUp9. All preconditions and test steps were followed as stated above. Yellow highlighting on images shows the unexpected result. 
+<br>
+
+The tester was unable to attempt PickUp6 
+<br>
+
+See README.md Part 2 for Testing and Environment information.
 
 
 
