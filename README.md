@@ -21,7 +21,7 @@
 - Product Name: Target.com
 - Product Version: Testing
 - Product Owner/Vendor: Target
-- Location: [target.com](https://www.target.com
+- Location: https://www.target.com
 <br>
 
 **Testing Information**
