@@ -1,5 +1,7 @@
-### For this project I chose [target.com](https://www.target.com/) . I tried to stay as close to the actual site's vocabulary and options, but there are times when I invented what would happen and wordage. <br>
-### All test cases are found in TestPlanTarget.md file.
+### For this project I chose [target.com](https://www.target.com/) . I tried to stay as close to the actual site's vocabulary and options, but there are times when I invented what would happen and wordage. The username and password are not real.<br>
+<br>
+
+### All test cases are found in TestPlanTarget.md file. Images for the Bug Report are found in PickUp5ERROR.png and PickUp9ERROR.png
 ---
 ---
 <br>
