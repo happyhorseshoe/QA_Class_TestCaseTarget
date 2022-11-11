@@ -12,3 +12,33 @@
 <br>
 
 ## Strategy: These test cases are UAT. If these test cases prove valuable then we will use them to format automation testing for Delivery.  
+
+<br>
+
+# Part 2: Manual Test Execution 
+
+**Product Information**
+- Product Name: Target.com
+- Product Version: Testing
+- Product Owner/Vendor: Target
+- Location: [target.com](https://www.target.com
+<br>
+
+**Testing Information**
+- Test Date(s): 10/31/2022
+- Tester's Name: Elizabeth Morrison
+- Tester's Company: Independent Looks, LLC
+- Acess Information: account username- shopperone@gmail.com 
+- Credtials: account password- testingshopper1!
+- Testing Scope: Pickup & Delivery as a signed in user and as a visitor
+  <br>  _please note_: PickUpTest5, PickupTest6, and PickTest7 have had previously reported issues. Tester has been instructed to attempt but these are currently in review
+
+**Test Environment**
+
+- Browser: Google Chrome Version 107.0.5304.106 (Official Build) (64-bit)
+- Operating System: Windows  
+- Test Device Model/Type: 11 Laptop
+
+
+
+
